@@ -21,7 +21,7 @@ const data = [
         id:"1",
         name: "Local Spa - Example",
         link: "",
-        discountDesc:"Offering stand out spa services in Midland, TX? Email us and take this spot.",
+        discountDesc:"Offering stand out spa services in Odessa, TX? Email us and take this spot.",
         desc:"Odessa AF",
         address:"",
         phoneNum:"",
